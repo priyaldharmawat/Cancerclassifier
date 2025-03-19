@@ -6,6 +6,3 @@ data_ingestion:
   source_URL: https://github.com/priyaldharmawat/dataset/raw/refs/heads/main/Skin-Cancer-Dataset.zip
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
-
-
-
